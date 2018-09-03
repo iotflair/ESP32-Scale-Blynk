@@ -6,5 +6,4 @@ This example Arduino based code implements procedure of reading weighing data fr
 HX711 Weighing module is used in that project.Used Blynk Virtual Pins is V16.
 It needs to be installed Blynk library in Arduino program.
 
-SDA pin is connected to GPIO26 and SCL pin - to GPIO27.
 Image of the scheme,scale and connections is shown at /IMG/scale.jpg
